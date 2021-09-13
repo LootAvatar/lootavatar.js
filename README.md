@@ -1,5 +1,5 @@
 # lootavatar.js
-lootavatar.js (based on loot.js) is a library that allow you to interact with LootAvatar contracts.
+lootavatar.js (based on [loot.js](https://github.com/0x84A/loot.js)) is a library that allow you to interact with LootAvatar contracts.
 
 
 ## Install
