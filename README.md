@@ -5,7 +5,7 @@ lootavatar.js (based on loot.js) is a library that allow you to interact with Lo
 ## Install
 
 ```Shell
-npm install --save loot.js
+npm install --save lootavatar.js
 ```
 
 ## Get started
